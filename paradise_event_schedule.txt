@@ -1,0 +1,339 @@
+[
+    {
+        "eventname": "Survival Arena (Solo)",
+        "time": "09:45",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Battle Arena (Party)",
+        "time": "00:30",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Madness Event",
+        "time": "01:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    },
+    {
+        "eventname": "Treasure Box (Job Cave)",
+        "time": "01:30",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    },
+    {
+        "eventname": "Styria Clash",
+        "time": "02:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Free for All",
+        "time": "02:30",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Survival Arena (Party) (4/4 LTP)",
+        "time": "03:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Howling Abyss: ARAM (Equalized)",
+        "time": "03:30",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    },
+    {
+        "eventname": "Battle Arena (Random)",
+        "time": "04:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Last Man Standing",
+        "time": "05:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Battle Arena (Random)",
+        "time": "06:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Racing Event",
+        "time": "06:30",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    },
+    {
+        "eventname": "Fake or Real (Karakoram)",
+        "time": "07:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pve",
+        "typeText": "PVE"
+    },
+    {
+        "eventname": "Battle Arena (Random)",
+        "time": "08:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Racing Event",
+        "time": "10:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    },
+    {
+        "eventname": "Fake or Real (Karakoram)",
+        "time": "11:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pve",
+        "typeText": "PVE"
+    },
+    {
+        "eventname": "Treasure Box (Job Cave)",
+        "time": "12:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    },
+    {
+        "eventname": "Racing Event",
+        "time": "13:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    },
+    {
+        "eventname": "Battle Arena (Random)",
+        "time": "14:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Fake or Real (Karakoram)",
+        "time": "15:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pve",
+        "typeText": "PVE"
+    },
+    {
+        "eventname": "Last Man Standing",
+        "time": "15:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Battle Arena (Random)",
+        "time": "16:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Fake or Real (Karakoram)",
+        "time": "17:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pve",
+        "typeText": "PVE"
+    },
+    {
+        "eventname": "Special Caravan",
+        "time": "18:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    },
+    {
+        "eventname": "Fake or Real (Karakoram)",
+        "time": "19:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pve",
+        "typeText": "PVE"
+    },
+    {
+        "eventname": "Battle Arena (Random)",
+        "time": "19:30",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Howling Abyss: ARAM (Equalized)",
+        "time": "20:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    },
+    {
+        "eventname": "Styria Clash",
+        "time": "20:30",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Survival Arena (Solo)",
+        "time": "21:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "League of Legends (Equalized)",
+        "time": "21:30",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Medusa Event (Party)",
+        "time": "22:00",
+        "days": [
+            "1",
+            "3",
+            "7"
+        ],
+        "eventType": "pve",
+        "typeText": "PVE"
+    },
+    {
+        "eventname": "Medusa Event (Solo)",
+        "time": "22:00",
+        "days": [
+            "2",
+            "4",
+            "6"
+        ],
+        "eventType": "pve",
+        "typeText": "PVE"
+    },
+    {
+        "eventname": "Server Dungeon Medusa B6",
+        "time": "22:00",
+        "days": [
+            "5"
+        ],
+        "eventType": "pve",
+        "typeText": "PVE"
+    },
+    {
+        "eventname": "Selket (STR) - Neith (INT)",
+        "time": "22:30",
+        "days": [
+            "0"
+        ],
+        "eventType": "pve",
+        "typeText": "PVE"
+    },
+    {
+        "eventname": "Treasure Box (Job Cave)",
+        "time": "22:50",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    },
+    {
+        "eventname": "Anubis (STR) - Isis (INT)",
+        "time": "23:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pve",
+        "typeText": "PVE"
+    },
+    {
+        "eventname": "Special Goods Trader (Jg Qin-Shi)",
+        "time": "23:15",
+        "days": [
+            "0"
+        ],
+        "eventType": "special",
+        "typeText": "Special"
+    }
+]
