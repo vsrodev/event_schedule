@@ -1,7 +1,16 @@
 [
     {
-        "eventname": "Survival Arena",
+        "eventname": "Survival Arena Solo",
         "time": "00:00",
+        "days": [
+            "0"
+        ],
+        "eventType": "pvp",
+        "typeText": "PVP"
+    },
+    {
+        "eventname": "Last Man Standing",
+        "time": "00:19",
         "days": [
             "0"
         ],
@@ -27,7 +36,7 @@
         "typeText": "Special"
     },
     {
-        "eventname": "Last Man Standing",
+        "eventname": "Survival Arena (Equalized)",
         "time": "01:30",
         "days": [
             "0"
@@ -54,26 +63,8 @@
         "typeText": "PVE"
     },
     {
-        "eventname": "Perennial Event",
-        "time": "02:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
         "eventname": "Racing Event",
         "time": "03:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Perennial Event",
-        "time": "06:00",
         "days": [
             "0"
         ],
@@ -108,22 +99,13 @@
         "typeText": "Special"
     },
     {
-        "eventname": "Perennial Event",
+        "eventname": "Fake or Real (Karakoram)",
         "time": "13:00",
         "days": [
             "0"
         ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Last Man Standing",
-        "time": "13:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
+        "eventType": "pve",
+        "typeText": "PVE"
     },
     {
         "eventname": "Racing Event",
@@ -163,15 +145,6 @@
     },
     {
         "eventname": "Racing Event",
-        "time": "15:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Perennial Event",
         "time": "15:30",
         "days": [
             "0"
@@ -261,13 +234,13 @@
         "typeText": "Special"
     },
     {
-        "eventname": "Survival Arena (Party) (4/4)",
+        "eventname": "Survival Arena (Guild)",
         "time": "21:00",
         "days": [
             "0"
         ],
-        "eventType": "pvp",
-        "typeText": "PVP"
+        "eventType": "guild",
+        "typeText": "Guild"
     },
     {
         "eventname": "League of Legends (Equalized)",
