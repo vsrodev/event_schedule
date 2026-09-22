@@ -1,299 +1,385 @@
-[
-    {
-        "eventname": "Survival Arena Solo",
-        "time": "00:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Last Man Standing",
-        "time": "00:19",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Madness Event",
-        "time": "00:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Special Goods Trader (Dw Cave)",
-        "time": "01:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Survival Arena (Equalized)",
-        "time": "01:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Styria Clash",
-        "time": "02:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Fake or Real (Karakoram)",
-        "time": "02:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "pve",
-        "typeText": "PVE"
-    },
-    {
-        "eventname": "Racing Event",
-        "time": "03:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Fake or Real (Karakoram)",
-        "time": "10:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pve",
-        "typeText": "PVE"
-    },
-    {
-        "eventname": "Treasure Hunt (Job Cave)",
-        "time": "11:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Racing Event",
-        "time": "12:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Fake or Real (Karakoram)",
-        "time": "13:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pve",
-        "typeText": "PVE"
-    },
-    {
-        "eventname": "Racing Event",
-        "time": "13:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Battle Arena (Random)",
-        "time": "14:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Treasure Hunt (Job Cave)",
-        "time": "14:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Fake or Real (Karakoram)",
-        "time": "15:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pve",
-        "typeText": "PVE"
-    },
-    {
-        "eventname": "Racing Event",
-        "time": "15:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "League of Legends (Equalized)",
-        "time": "16:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Battle Arena (Random)",
-        "time": "16:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Free-For-ALL",
-        "time": "17:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Tower Defend",
-        "time": "18:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pve",
-        "typeText": "PVE"
-    },
-    {
-        "eventname": "Battle Arena (Random)",
-        "time": "18:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Howling Abyss ARAM (Equalized)",
-        "time": "19:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Cataclysm",
-        "time": "19:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Battle Arena (Party)",
-        "time": "20:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Special Goods Trader (Dw Cave)",
-        "time": "20:20",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Survival Arena (Guild)",
-        "time": "21:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "guild",
-        "typeText": "Guild"
-    },
-    {
-        "eventname": "League of Legends (Equalized)",
-        "time": "21:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "pvp",
-        "typeText": "PVP"
-    },
-    {
-        "eventname": "Medusa Solo (Equalized)",
-        "time": "22:00",
-        "days": [
-            "0"
-        ],
-        "eventType": "pve",
-        "typeText": "PVE"
-    },
-    {
-        "eventname": "Selket-Neith (Job Cave)",
-        "time": "22:30",
-        "days": [
-            "0"
-        ],
-        "eventType": "pve",
-        "typeText": "PVE"
-    },
-    {
-        "eventname": "Treasure Hunt (Job Cave)",
-        "time": "22:40",
-        "days": [
-            "0"
-        ],
-        "eventType": "special",
-        "typeText": "Special"
-    },
-    {
-        "eventname": "Anubis-Isis (Job Cave)",
-        "time": "22:50",
-        "days": [
-            "0"
-        ],
-        "eventType": "pve",
-        "typeText": "PVE"
-    },
-    {
-        "eventname": "Medusa B6 Server Dungeon",
-        "time": "23:15",
-        "days": [
-            "0"
-        ],
-        "eventType": "pve",
-        "typeText": "PVE"
-    }
-]
+{
+    "status": "success",
+    "data": [
+        {
+            "eventname": "Survival Arena (Solo)",
+            "time": "00:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Smuggler Caravan",
+            "time": "00:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Madness Event",
+            "time": "01:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Fake Or Real",
+            "time": "01:15",
+            "days": [
+                "0"
+            ],
+            "eventType": "pve",
+            "typeText": "PVE"
+        },
+        {
+            "eventname": "Styria Clash",
+            "time": "01:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Capture the Flag",
+            "time": "02:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Last Man Standing",
+            "time": "02:15",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Battle Arena (Random)",
+            "time": "02:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Capture the Flag",
+            "time": "03:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Smuggler Caravan",
+            "time": "03:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Treasure Hunt",
+            "time": "04:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Time To Sleep",
+            "time": "05:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Time To Sleep",
+            "time": "06:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Time To Sleep",
+            "time": "07:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Time To Sleep",
+            "time": "08:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Smuggler Caravan",
+            "time": "09:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Capture the Flag",
+            "time": "10:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Last Man Standing",
+            "time": "11:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Fake Or Real",
+            "time": "12:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pve",
+            "typeText": "PVE"
+        },
+        {
+            "eventname": "Smuggler Caravan",
+            "time": "12:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Capture the Flag",
+            "time": "13:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Battle Arena (Random)",
+            "time": "14:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Capture the Flag",
+            "time": "15:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Smuggler Caravan",
+            "time": "15:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Medusa Event (Equalized)",
+            "time": "16:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pve",
+            "typeText": "PVE"
+        },
+        {
+            "eventname": "Battle Arena (Random)",
+            "time": "17:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Fake Or Real",
+            "time": "17:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "pve",
+            "typeText": "PVE"
+        },
+        {
+            "eventname": "Capture the Flag",
+            "time": "18:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Smuggler Caravan",
+            "time": "18:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Tower Defend",
+            "time": "19:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pve",
+            "typeText": "PVE"
+        },
+        {
+            "eventname": "Cataclysm Event",
+            "time": "19:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "A.R.A.M (Equalized)",
+            "time": "20:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "League of Legends (Equalized)",
+            "time": "20:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Survival Arena (Solo)",
+            "time": "21:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Smuggler Caravan",
+            "time": "21:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Styria Clash",
+            "time": "22:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Selket (STR) - Neith (INT)",
+            "time": "22:30",
+            "days": [
+                "0"
+            ],
+            "eventType": "pve",
+            "typeText": "PVE"
+        },
+        {
+            "eventname": "Treasure Hunt",
+            "time": "22:40",
+            "days": [
+                "0"
+            ],
+            "eventType": "special",
+            "typeText": "Special"
+        },
+        {
+            "eventname": "Anubis (STR) - Isis (INT)",
+            "time": "22:50",
+            "days": [
+                "0"
+            ],
+            "eventType": "pve",
+            "typeText": "PVE"
+        },
+        {
+            "eventname": "Capture the Flag",
+            "time": "23:00",
+            "days": [
+                "0"
+            ],
+            "eventType": "pvp",
+            "typeText": "PVP"
+        },
+        {
+            "eventname": "Medusa Event (Solo)",
+            "time": "23:20",
+            "days": [
+                "1"
+            ],
+            "eventType": "pve",
+            "typeText": "PVE"
+        },
+        {
+            "eventname": "Medusa Event (Equalized)",
+            "time": "23:40",
+            "days": [
+                "0"
+            ],
+            "eventType": "pve",
+            "typeText": "PVE"
+        }
+    ],
+    "message": "",
+    "timestamp": 1790109885
+}
